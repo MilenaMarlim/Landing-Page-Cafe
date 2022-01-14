@@ -13,6 +13,7 @@ https://milenamarlim.github.io/Landing-Page-Cafe/
 
 * Position Absolute (CSS)
 * Position Relative (CSS)
+* Design Responsivo: Media Queries
 
 ## 🚀 Linguagens utilizadas:
 
